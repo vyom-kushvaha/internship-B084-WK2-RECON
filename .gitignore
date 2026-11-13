@@ -1,0 +1,21 @@
+# Raw and unblurred original files
+_raw_originals/
+*.zip
+*.rar
+*.tar.gz
+*.7z
+
+# Course reference materials (read-only)
+*INT_-_All_Files*
+*reference*
+
+# Python & Temporary files
+scratch/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+.vscode/
+.idea/
